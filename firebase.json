@@ -1,0 +1,8 @@
+{
+  "firestore": [
+    {
+      "database": "ai-studio-careelevatorcent-a44cbd73-6d35-4bb4-beab-c8d3d6820788",
+      "rules": "firestore.rules"
+    }
+  ]
+}

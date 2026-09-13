@@ -1,0 +1,6 @@
+{
+  "name": "Care Elevator Center",
+  "description": "A modern dashboard and accounting system for Care Elevator Center, featuring real-time expense and income tracking, Google Sheets integration, and customizable PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
